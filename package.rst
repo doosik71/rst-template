@@ -1,22 +1,11 @@
 template package
 ===============================================================================
 
-Subpackages
------------
-
 .. toctree::
+    :maxdepth: 1
+    :glob:
 
-    template.subpackages
-
-Submodules
-----------
-
-.. toctree::
-
-    template.submodules
-
-Module contents
----------------
+    template.*
 
 .. automodule:: template
     :members:
